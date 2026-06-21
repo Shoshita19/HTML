@@ -1,5 +1,5 @@
 # HTML
-**#DAY 1**
+#DAY 1: Practicing basics of HTML5
 # HTML5 Elements and Structure Demo
 
 This project is a comprehensive demonstration of core HTML5 concepts and semantic web development. It showcases the use of various HTML elements that are commonly used to build well-structured, accessible, and organized web pages.
