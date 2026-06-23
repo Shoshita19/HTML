@@ -21,8 +21,6 @@ This repository is a collection of HTML5 concepts, examples, and practice exerci
 * `<aside>`
 * `<footer>`
 * `<address>`
-* `<a>`
-* `<iframe>`
 
 These elements help create meaningful and accessible web page structures.
 
@@ -55,7 +53,7 @@ Used for displaying terms and definitions.
 
 ### 6. Hyperlinks and Navigation
 
-* Internal page navigation
+* Internal page navigation `<a>`
 * External website links
 * Email links using `mailto:`
 * Telephone links using `tel:`
