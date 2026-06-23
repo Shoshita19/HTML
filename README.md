@@ -21,10 +21,12 @@ This repository is a collection of HTML5 concepts, examples, and practice exerci
 * `<aside>`
 * `<footer>`
 * `<address>`
+* `<a>`
+* `<iframe>`
 
 These elements help create meaningful and accessible web page structures.
 
-### 3. Text Formatting and Content Elements
+### 3. lookText Formatting and Content Elements
 
 * Headings (`<h1>` to `<h6>`)
 * Paragraphs (`<p>`)
