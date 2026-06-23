@@ -9,7 +9,7 @@ This repository is a collection of HTML5 concepts, examples, and practice exerci
 ### 1. HTML5 Document Structure
 
 * Understanding the basic structure of an HTML document
-* `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` elements
+* `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>` and `<body>` elements
 * Importance of proper document organization
 
 ### 2. Semantic HTML Elements
