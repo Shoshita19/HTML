@@ -65,6 +65,11 @@ Used for displaying terms and definitions.
 * Citation attributes
 * Referencing external content correctly
 
+### 8. Image and Table
+
+* Using `<src>` to assign the picture you want to display in webpage
+* To create table 
+
 ### 8. Content Organization
 
 * Grouping related content
