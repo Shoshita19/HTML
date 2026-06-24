@@ -70,7 +70,7 @@ Used for displaying terms and definitions.
 * Using `<src>` to assign the picture you want to display in webpage
 * To create table 
 
-### 8. Content Organization
+### 9. Content Organization
 
 * Grouping related content
 * Creating readable page layouts
