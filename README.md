@@ -68,9 +68,13 @@ Used for displaying terms and definitions.
 ### 8. Image and Table
 
 * Using `<src>` to assign the picture you want to display in webpage
-* To create table 
+* To create table
+  
+### 9. Position
 
-### 9. Content Organization
+* It can be absolute, relative, static, fixed, sticky etc...
+
+### 10. Content Organization
 
 * Grouping related content
 * Creating readable page layouts
