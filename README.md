@@ -76,12 +76,12 @@ Used for displaying terms and definitions.
 
 ### 10. Text-Level Entities
 * Used to format and organize text within a webpage
-* Includes elements like <b>, <i>, <strong>, <em>, and <span>
+* Includes elements like `<b>`, `<i>`, `<strong>`, `<em>`, and `<span>`
 * Helps improve readability and text presentation
 
 ### 11. Character Entities
 * Used to display reserved or special characters in HTML.
-* Written using an ampersand (&) and a semicolon (;), e.g., &lt;, &gt;, &copy;.
+* Written using an ampersand `(&)` and a semicolon `(;)`, e.g., `&lt;, &gt;, &copy;`
 * Prevents browsers from confusing special characters with HTML tags.
 
 ### 12. Global Attributes
@@ -90,9 +90,9 @@ Used for displaying terms and definitions.
 * Used to identify, style, and add extra information to elements.
 
 ### 13. Table in HTML
-* Used to display data in rows and columns.
-* Created using tags like <table>, <tr>, <th>, and <td>.
-* Helps organize structured information in a clear and readable format.
+* Used to display data in rows and columns
+* Created using tags like `<table>`, `<tr>`, `<th>`, and `<td>`
+* Helps organize structured information in a clear and readable format
 
 ### 14. Content Organization
 
