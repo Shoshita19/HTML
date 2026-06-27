@@ -74,7 +74,27 @@ Used for displaying terms and definitions.
 
 * It can be absolute, relative, static, fixed, sticky etc...
 
-### 10. Content Organization
+### 10. Text-Level Entities
+* Used to format and organize text within a webpage.
+* Includes elements like <b>, <i>, <strong>, <em>, and <span>.
+* Helps improve readability and text presentation.
+
+### 11. Character Entities
+* Used to display reserved or special characters in HTML.
+* Written using an ampersand (&) and a semicolon (;), e.g., &lt;, &gt;, &copy;.
+* Prevents browsers from confusing special characters with HTML tags.
+
+### 12. Global Attributes
+* Attributes that can be used with almost all HTML elements.
+* Common examples include id, class, title, style, and hidden.
+* Used to identify, style, and add extra information to elements.
+
+### 13. Table in HTML
+* Used to display data in rows and columns.
+* Created using tags like <table>, <tr>, <th>, and <td>.
+* Helps organize structured information in a clear and readable format.
+
+### 14. Content Organization
 
 * Grouping related content
 * Creating readable page layouts
