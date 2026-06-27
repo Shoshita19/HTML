@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character entities, Global attributes</title>
+</head>
+<body>
+    <h1>Character entities</h1>
+    <p>&copy;</p><!--Copyright
+    Entity name: &copy; Entity number: &#169;-->
+    <p>&nbsp;</p><!--Non-breaking space
+    Entity name: &nbsp; Entity number: &#160;-->
+    <p>&#60;</p><!--Less than
+    Entity name: &lt; Entity number: &#60;-->
+    <p>&gt;</p><!--Greater than
+    Entity name: &gt; Entity number: &#62;-->
+    <p>&amp;</p><!--Ampersand
+    Entity name: &amp; Entity number: &#38;-->
+    <p>&reg;</p><!--Registered trademark
+    Entity name: &reg; Entity number: &#174;-->
+    <p>&pound;</p><!--Pound
+    Entity name: &pound; Entity number: &#163;-->
+    <p>&euro;</p><!--Euro
+    Entity name: &euro; Entity number: &#8364;-->
+    <b>Example:</b>
+    <p>
+        &lt;body&gt; is start tag of body element.
+    </p>
+    <p>
+        &lt;/body&gt; is end tag of body element.
+    </p>
+    <h1>Global attributes</h1>
+    <p contenteditable="true">This is editable</p>
+    <!--contenteditable	Allows the user to edit content. Possible values are true/false.-->
+    <p dir="rtl">The direction of the text is from right to left</p>
+    <!--dir	Specifies text direction. Possible values are Itr/ rtl.-->
+    <p title="mydemo">Hover your mouse here to see the title</p>
+    <!--title	Displays the string message as a tooltip.-->
+    <p spellcheck="true">it will check spellling of each element</p>
+    <!--spellcheck	Specifies whether the spelling of an element's value should be checked or not. Possible values are true/false.-->
+    <p id="id1">ID should be unique for each element</p>
+    <!--id	Gives a unique id to an element.-->
+    <p>This webpage is authored in English language</p>
+    <p contenteditable="true" spellcheck="true">This paragraph is edittable</p>
+
+</body>
+</html>
