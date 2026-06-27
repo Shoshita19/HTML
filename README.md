@@ -75,9 +75,9 @@ Used for displaying terms and definitions.
 * It can be absolute, relative, static, fixed, sticky etc...
 
 ### 10. Text-Level Entities
-* Used to format and organize text within a webpage.
-* Includes elements like <b>, <i>, <strong>, <em>, and <span>.
-* Helps improve readability and text presentation.
+* Used to format and organize text within a webpage
+* Includes elements like <b>, <i>, <strong>, <em>, and <span>
+* Helps improve readability and text presentation
 
 ### 11. Character Entities
 * Used to display reserved or special characters in HTML.
