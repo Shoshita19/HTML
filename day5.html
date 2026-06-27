@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+<body>
+    <h1>Table1</h1>
+    <table border="2">
+    <caption>Table heading</caption>
+    <!--caption: Defines table heading-->
+    <thead>
+        <!--thead: Defines header part of the table-->
+        <tr> 
+            <!--tr: Defines row of the table-->
+            <th>Column 1 heading</th>
+            <!--th: Defines heading of the column-->
+            <th>Column 2 Heading</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!--tbody: Defines the content part of the table-->
+        <tr>
+            <td>Column 1 data</td>
+            <!--td: Defines data of column-->
+            <td>Column 2 data</td>
+        </tr>
+    </tbody>
+    </table>
+    <h1>Table2</h1>
+    <table>
+    <caption>MERN stack developer program</caption>
+    <colgroup>
+        <!--colgroup: Helps to logically group two or more consecutive columns-->
+        <col>
+        <col style="background-color:lightblue;">
+        <col span="2" style="background-color: lightgreen;">
+        <col style="background-color: lightpink;">
+    </colgroup>
+    <tr>
+        <th>Technology</th>
+        <td >MongoDB</td>
+        <td >Node</td>
+        <td >Express</td>
+        <td>React</td>
+    </tr>
+    <tr>
+        <th >Description</th>
+        <td>The database</td>
+        <td>Node is the base for server side scripting</td>
+        <td>JS framework for web server development</td>
+        <td>JS library to design the front end</td>
+    </tr>
+    </table>
+    <h1>Table3</h1>
+      <table border="2">
+            <caption>Training Status of the Team</caption>
+            <tr>
+                <th colspan="2">Employee Details</th>
+                <th>Training Status</th>
+            </tr>
+            <tr>
+                <td rowspan="2">Oct'20</td>
+                <td>Jacob, #1002</td>
+                <td>Completed</td>
+            </tr>
+            <tr>
+                <td>Jeenie, #3001</td>
+                <td>In progress</td>
+            </tr>
+        </table>
+    
+
+    
+
+</body>
+</html>
+
